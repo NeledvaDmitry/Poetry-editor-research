@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "A Non-Corrective Poetry Editor for Marking Ambiguous Fragments in Creative Writing"
+message: "If you use this project, please cite it as below."
+type: software
+authors:
+  - family-names: Neledva
+    given-names: Dmitry
+year: 2026
+url: "https://neledva.poet.ru"
