@@ -119,8 +119,7 @@ Possible future improvements:
 
 - Project website: https://neledva.poet.ru
 - Paper PDF: paper.pdf
-- Demo: add demo link here
-- DOI / archive link: add Zenodo or OSF link here
+- DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20680079.svg)](https://doi.org/10.5281/zenodo.20680079)
 ## Citation
 
 If you want to cite this project, use:
