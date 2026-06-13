@@ -58,10 +58,9 @@ Possible decisions:
 ├── paper.pdf                 # Compiled ACM-style PDF
 ├── README.md                 # Project description
 ├── examples/
-│   ├── author_corpus_sample.json
-│   └── user_dictionary_sample.json
-└── survey/
-    └── questionnaire.md
+    ├── author_corpus_sample.json
+    └── user_dictionary_sample.json
+
 ```
 
 ## Example data
